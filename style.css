@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width:100%;
+    top:0px;
+    
+}
+
+input{
+    border-radius: 5px;
+    width:35%;
+    height:27px;
+}
+
+.button{
+    margin-top:20px;
+    border:solid darkblue 2px;
+    color:darkblue;
+    background-color: cyan;
+    font-weight:500;
+}
+
+canvas{
+    border-radius: 20px;
+    border:double black 3px;
+    background-color: aqua;
+    box-shadow: 7px 7px 7px aquamarine;
+}
